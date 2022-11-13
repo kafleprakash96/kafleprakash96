@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kafleprakash96
+- 👋 Hi, I’m Prakash
 - 👀 I’m interested in web development and database management
 - 🌱 I’m currently learning Spring 
 - 💞️ I’m looking to collaborate on Java programs
