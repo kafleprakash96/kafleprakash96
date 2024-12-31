@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Prakash Kafle! 
+# 👋 Hi, I'm Prakash! 
 
-Welcome to my GitHub profile! I'm a **backend developer** with a keen interest in crafting scalable web applications and managing robust databases. My journey in tech is driven by curiosity, passion, and a love for solving complex problems with elegant code.
+I'm a **backend developer** with a keen interest in crafting scalable web applications and managing robust databases. My journey in tech is driven by curiosity, passion, and a love for solving complex problems with elegant code.
 
 ---
 
