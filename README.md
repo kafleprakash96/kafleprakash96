@@ -1,16 +1,16 @@
 <!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=👋%20Hi%2C%20I'm%20Prakash!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- Portfolio Highlight -->
+<!-- Portfolio Highlight Button -->
 <p align="center">
   <a href="https://devfolio-prakashbyte.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-ff4757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=302b63" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-8e2de2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a00e0" alt="Portfolio"/>
   </a>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Database+Enthusiast;Spring+Boot+%7C+Kubernetes+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Database+Enthusiast;Spring+Boot+%7C+Kubernetes+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://devfolio-prakashbyte.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a00e0"/>
   </a>
 </p>
 
