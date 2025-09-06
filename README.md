@@ -4,7 +4,7 @@
 <!-- Glowing Portfolio Button -->
 <p align="center">
   <a href="https://devfolio-prakashbyte.vercel.app/" target="_blank">
-    <img src="[https://raw.githubusercontent.com/kafleprakash96/kafleprakash96/main/assets/portfolio-button.png](https://github.com/kafleprakash96/kafleprakash96/blob/main/visit-my-portfolio.png)" 
+    <img src="visit-my-portfolio.png" 
          alt="Visit My Portfolio" width="300"/>
   </a>
 </p>
