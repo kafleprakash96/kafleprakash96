@@ -4,7 +4,7 @@
 <!-- Portfolio Highlight Button -->
 <p align="center">
   <a href="https://devfolio-prakashbyte.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-8e2de2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a00e0" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-transparent?style=for-the-badge&logo=vercel&logoColor=white&color=0f0c29&labelColor=302b63&cacheSeconds=3600" alt="Portfolio" style="border-radius:30px; border:2px solid #8e2de2; padding:10px;"/>
   </a>
 </p>
 
@@ -12,6 +12,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Database+Enthusiast;Spring+Boot+%7C+Kubernetes+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+
+<!-- Infinite Scrolling Icons -->
+<marquee behavior="scroll" direction="left" scrollamount="6" width="100%">
+  <a href="#" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+  <a href="#" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="margin: 0 15px;"/></a>
+</marquee>
+
+</div>
 
 ---
 
@@ -29,14 +49,6 @@
 
 ---
 
-## 💞️ Collaboration Goals  
-🤝 Open to collaborate on:  
-- ⚡ **Java backend projects** that solve real-world problems  
-- 🗄️ **Database design and management systems**  
-- 🌍 **Open-source contributions** in APIs & backend tools  
-
----
-
 ## 📬 Connect with Me  
 
 <p align="center">
@@ -47,30 +59,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://devfolio-prakashbyte.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a00e0"/>
+    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🚀 Fun Facts About Me  
-- 🎨 I love blending creativity with logic in backend systems  
-- 🗣️ Passionate about **teaching** & creating learning resources  
-- 🌏 "Prakash" means *light* — I bring clarity to projects I work on ✨  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
